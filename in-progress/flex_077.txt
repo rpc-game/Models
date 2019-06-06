@@ -1,0 +1,371 @@
+<!-- dmx encoding keyvalues2 1 format model 1 -->
+"DmElement"
+{
+	"id" "elementid" "dcba0b61-6215-3b28-b396-8799864d5dc1"
+	"name" "string" "flex_077"
+	"combinationOperator" "DmeCombinationOperator"
+	{
+		"id" "elementid" "666a1f20-7685-3d7a-be01-93a1cb67a10a"
+		"name" "string" "combinationOperator"
+		"controls" "element_array" 
+		[
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "ae3bbe13-ee41-31bb-9cc5-ce3b2ed2478c"
+				"name" "string" "JawD"
+				"rawControlNames" "string_array"
+                [
+                "JawBackward"
+                "JawForeward"
+                ]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0"
+                "0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "8a3a555f-aa2b-3dc9-a690-b096d8bd947b"
+				"name" "string" "JawRotateY-Left"
+				"rawControlNames" "string_array"
+                [
+                "JawRotateY-Left"
+                "JawRotateY-Right"
+                ]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0"
+                "0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "92996785-7223-3814-b770-3c035df29579"
+				"name" "string" "JawRotateZ"
+				"rawControlNames" "string_array"
+                [
+                "JawRotateZ-Left"
+                "JawRotateZ-Right"
+                ]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0"
+                "0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "9558177d-f7eb-340f-808e-d4473140b3ca"
+				"name" "string" "JawV"
+				"rawControlNames" "string_array"
+                [
+                "Jaw-Down"
+                "Jaw-Up"
+                ]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0"
+                "0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "2a70e15f-76cb-3ee0-963d-f08e5cf8a8a3"
+				"name" "string" "Jaw-Left"
+				"rawControlNames" "string_array"
+                [
+                "Jaw-Left"
+                "Jaw-Right"
+                ]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0"
+                "0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "46f727aa-b7c0-37f3-a632-c2621cf71169"
+				"name" "string" "FoldLipLo"
+				"rawControlNames" "string_array"
+                [
+                "LowerLipIn"
+                "LowerLipOut"
+                ]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0"
+                "0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "47068919-473d-3790-a0fc-b3eab9700b36"
+				"name" "string" "Midmouth"
+				"rawControlNames" "string_array"
+                [
+                "Midmouth-Left"
+                "Midmouth-Right"
+                ]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0"
+                "0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "3b0f6f3f-74b1-392b-b428-b7e6f70f3c70"
+				"name" "string" "LipsV"
+				"rawControlNames" "string_array"
+                [
+                "MouthDown"
+                "MouthUp"
+                ]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0"
+                "0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "ee3410e1-173c-3702-ba16-873400333389"
+				"name" "string" "MouthOpen"
+				"rawControlNames" "string_array" ["MouthOpen"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "13f0a0b1-8984-31b8-8cec-8994d6da626e"
+				"name" "string" "TongueUp"
+				"rawControlNames" "string_array" ["TongueUp"]
+				"stereo" "bool" "0"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "ccfe3a1b-4a07-36e3-8a43-60a2d9cfa023"
+				"name" "string" "FoldLipUp"
+				"rawControlNames" "string_array"
+                [
+                "UpperLipIn"
+                "UpperLipOut"
+                ]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0.0"
+                "0.0"
+                ]
+            },
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "be497fab-bcee-3092-a6f5-1b83e5eae881"
+				"name" "string" "CloseLid"
+				"rawControlNames" "string_array" 
+                [
+                "Blink"
+                "Eyes-Wide"
+                ]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "1"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0.0"
+                "0.0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "d57729a6-cf71-31bd-9c50-e71f740cafea"
+				"name" "string" "BrowV"
+				"rawControlNames" "string_array"
+                [
+                "Brow-Down"
+                "Brow-Up"
+                ]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array"
+                [
+                "0.0"
+                "0.0"
+                ]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "7faa448b-cf91-3a9c-8f2d-99b333ffd8f7"
+				"name" "string" "Outer-Squint"
+				"rawControlNames" "string_array" ["Brow-In"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "09d0af37-58e0-31f5-b42c-c9c467ec9a1e"
+				"name" "string" "BrowOutV"
+				"rawControlNames" "string_array" ["Outer-Brow-Lower"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "1935751a-d416-3687-8d6f-db7f1a53af84"
+				"name" "string" "CheekH"
+				"rawControlNames" "string_array" ["Cheek-Puff"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "9162502a-2379-3dc8-99cc-7fd13eb481f0"
+				"name" "string" "Frown"
+				"rawControlNames" "string_array" ["Frown"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "6f6165be-8540-34ab-9707-deea28b471cf"
+				"name" "string" "LipLowV"
+				"rawControlNames" "string_array" ["Lower-Lip-Down"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "146ab6b8-1e30-3372-953e-e0d1ab9f09a2"
+				"name" "string" "PuckerLip"
+				"rawControlNames" "string_array" ["Mouth-Narrow"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "5652500c-76eb-3673-b833-cdcd31d3ac87"
+				"name" "string" "Whistle-Narrow-Adjust"
+				"rawControlNames" "string_array" ["Whistle-Narrow-Adjust"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "34801d42-08fd-3595-823b-1b53367789ef"
+				"name" "string" "NostrilFlare"
+				"rawControlNames" "string_array" ["Nose-Scrunch"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "c6e2f1d2-0a3b-325f-adbc-be75753b6d2d"
+				"name" "string" "Smile"
+				"rawControlNames" "string_array" ["Smile"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "e46e58d7-ff19-384b-9c35-2376f37cab4b"
+				"name" "string" "Inner-Squint"
+				"rawControlNames" "string_array" ["Squint"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			},
+			"DmeCombinationInputControl"
+			{
+				"id" "elementid" "353c5f21-0457-3935-82d9-fb54c05ba00a"
+				"name" "string" "LipUpV"
+				"rawControlNames" "string_array" ["UpperLip-Up"]
+				"stereo" "bool" "1"
+				"eyelid" "bool" "0"
+				"flexMax" "float" "1.0"
+				"flexMin" "float" "0.0"
+				"wrinkleScales" "float_array" ["0.0"]
+			}
+		]
+		"controlValues" "vector3_array" ["0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5"]
+		"controlValuesLagged" "vector3_array" ["0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5", "0.0 0.0 0.5"]
+		"usesLaggedValues" "bool" "0"
+		"dominators" "element_array" [ ]
+		"targets" "element_array" [ ]
+	}
+}
