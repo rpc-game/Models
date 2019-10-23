@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"papers\RPC_files\RPC-005-doc1"
+//	"$basetexturetransform"	"center 0 0 scale 1 2 rotate 0 translate 0 0"
+//	"$AlphaTestReference"	"0.5"
+	"$surfaceprop" "paper"
+}
